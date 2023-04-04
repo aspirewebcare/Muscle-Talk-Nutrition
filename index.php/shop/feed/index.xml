@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Products &#8211; Muscle Talk</title>
+	<atom:link href="/index.php/shop/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sat, 01 Apr 2023 07:57:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>MTN Whey Protein Concentrate Mango Flavor</title>
+		<link>/index.php/product/mtn-whey-protein-concentrate/</link>
+					<comments>/index.php/product/mtn-whey-protein-concentrate/#respond</comments>
+		
+		<dc:creator><![CDATA[Amar]]></dc:creator>
+		<pubDate>Tue, 14 Mar 2023 08:52:56 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=6329</guid>
+
+					<description><![CDATA[MTN Whey Protein Concentrate Mango Flavor]]></description>
+										<content:encoded><![CDATA[<p>MTN Whey Protein Concentrate Mango Flavor</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/product/mtn-whey-protein-concentrate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Whey Protein Concentrate &#038; Isolate Chocolate Flavour.</title>
+		<link>/index.php/product/fresh-papaya/</link>
+					<comments>/index.php/product/fresh-papaya/#respond</comments>
+		
+		<dc:creator><![CDATA[Amar]]></dc:creator>
+		<pubDate>Wed, 12 Jan 2022 08:46:48 +0000</pubDate>
+				<guid isPermaLink="false">/index.php/product/fresh-papaya/</guid>
+
+					<description><![CDATA[Muscle Talk Whey Protein Concentrate &#38; Isolate.]]></description>
+										<content:encoded><![CDATA[<p>MTN Whey Protein Concentrate &amp; Isolate Chocolate Flavour.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/product/fresh-papaya/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Muscle Talk Whey Protein Coffee Mocha.</title>
+		<link>/index.php/product/honey-croissants/</link>
+					<comments>/index.php/product/honey-croissants/#respond</comments>
+		
+		<dc:creator><![CDATA[Amar]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2021 10:17:33 +0000</pubDate>
+				<guid isPermaLink="false">/index.php/product/honey-croissants/</guid>
+
+					<description><![CDATA[Muscle Talk Whey Protein Coffee Mocha.]]></description>
+										<content:encoded><![CDATA[<p>Muscle Talk Whey Protein Coffee Mocha.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/product/honey-croissants/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MTN Whey Protein Strawberry Flavor</title>
+		<link>/index.php/product/french-croissants/</link>
+					<comments>/index.php/product/french-croissants/#respond</comments>
+		
+		<dc:creator><![CDATA[Amar]]></dc:creator>
+		<pubDate>Thu, 02 Dec 2021 12:41:39 +0000</pubDate>
+				<guid isPermaLink="false">/index.php/product/french-croissants/</guid>
+
+					<description><![CDATA[Whey Protein Strawberry Flavor]]></description>
+										<content:encoded><![CDATA[<p>Whey Protein Strawberry Flavor</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/product/french-croissants/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
